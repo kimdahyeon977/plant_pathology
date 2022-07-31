@@ -1,6 +1,6 @@
 # :leaves: Plant Pathology 프로젝트의 코드를 모아두었습니다. :leaves: 
 
-### 크게 4가지 모델로 이루어져있습니다. ###
+### 크게 3가지 모델로 이루어져있습니다. 하위 분류는 버전차이입니다. ###
 ### (1) . classification 
 ### (2) . Detection
 ### (3) . Image Retreival
