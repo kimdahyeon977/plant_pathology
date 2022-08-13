@@ -15,12 +15,12 @@
 ## (2). Detection
 #### (2-1). ai.ipynb : icevision으로 객체 인식을 한 기본 코드입니다.
 
-#### (2-2). ai_best : 앙상블, early stopping 등으로 성능을 개선한 코드입니다.
+#### (2-2). ai_best.ipynb : 앙상블, early stopping 등으로 성능을 개선한 코드입니다.
 
-#### (2-3). runnig-flash-objectdetection : pytorch-lightning의 flash를 이용해서 객체 인식을 한 코드입니다.
+#### (2-3). runnig-flash-objectdetection.ipynb : pytorch-lightning의 flash를 이용해서 객체 인식을 한 코드입니다.
 
-#### (2-4). Yolov5 : darknet의 yolov5을 이용하여 객체 인식을 한 코드입니다.
+#### (2-4). Yolov5.ipynb : darknet의 yolov5을 이용하여 객체 인식을 한 코드입니다.
 
 ## (3). Image Retreival
 
-#### (3-1) / 
+#### (3-1). metriclearning.ipynb : pytorch-metric-learning 라이브러리를 사용한 Image retreival 코드입니다.
