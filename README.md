@@ -8,7 +8,7 @@
 ## < 각 파일에 대한 간략한 설명 > ##
 
 ## (1). Classification
-#### (1-1). classification-active.ipynb : 분류모델에 active learning을 적용한 코드입니다.
+#### (1-1). active-learning.ipynb : 분류모델에 active learning을 적용한 코드입니다.
 
 #### (1-2). cross-validation_(3).ipynb : 분류모델에 active learning을 적용하기 전 코드입니다. 결과를 시각화한 코드도 포함합니다.
 
